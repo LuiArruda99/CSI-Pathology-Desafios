@@ -1,0 +1,72 @@
+{
+  "bg": "https://i.postimg.cc/6Q3syjpw/Screen-Shot-2023-02-14-at-22-20-37.png",
+  "title": "Desafio CSI Pathology",
+  "description": "Vamos testar alguns conceitos básicos?",
+  "questions": [
+    {
+      "image": "https://media.giphy.com/media/l4Ho9SUtchnKtOx32/giphy.gif",
+      "title": "O que é patologia?",
+      "description": "Essa é pra aquecer",
+      "answer": 0,
+      "alternatives": [
+        "Estudo das alterações celulares em resposta a lesões e agressões",
+        "Estudo das causas da morte",
+        "Estudo da genética humana",
+        "Estudo do envelhecimento celular"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/4uVyQiFGLicuI/giphy.gif",
+      "title": "O que é um patógeno?",
+      "description": "Será um filhote de pato? :) ",
+      "answer": 0,
+      "alternatives": [
+         "Um agente que pode causar doenças somente em organismos vivos",
+         "Uma célula do sistema imune que reconhece e destrói antígenos",
+         "Qualquer substância que pode danificar células e tecidos",
+         "Uma bactéria que vive no corpo humano e ajuda na digestão"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/4uVyQiFGLicuI/giphy.gif",
+      "title": "O que é inflamação?",
+      "description": "Acho que todo mundo já teve uma vez na vida",
+      "answer": 3,
+      "alternatives": [
+         "Um processo metabólico que ocorre em resposta ao exercício físico",
+         "Um processo de regeneração tecidual após uma lesão",
+         "Um processo de regeneração tecidual após uma lesão mediado por fatores de crescimento",
+        "Um processo bioquímico com resposta imunológica à uma lesão ou infecção"
+         
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/4uVyQiFGLicuI/giphy.gif",
+      "title": "O que é necrose?",
+      "description": "Necrose, que nome feio!",
+      "answer": 2,
+      "alternatives": [
+         "Uma inflamação crônica que afeta a função dos tecidos",
+         "Uma resposta imunológica exagerada a um agente infeccioso",
+         "Morte celular causada por danos irreversíveis em um tecido",
+         "Uma alteração genética de uma célula que pode levar ao câncer"
+      ]
+    }
+  ],
+  "external": [
+    "https://aluraquiz-base.alura-challenges.vercel.app/",
+    "https://aluraquiz-css.omariosouto.vercel.app/",
+    "https://aluraquiz-devsoutinho.omariosouto.vercel.app/"
+  ],
+  "theme": {
+    "colors": {
+      "primary": "#012158",
+      "secondary": "#f1853b",
+      "mainBg": "#95DAF8",
+      "contrastText": "#727272",
+      "wrong": "#FF5722",
+      "success": "#4CAF50"
+    },
+    "borderRadius": "4px"
+  }
+}
