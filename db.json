@@ -33,10 +33,10 @@
       "description": "Acho que todo mundo já teve uma vez na vida",
       "answer": 3,
       "alternatives": [
-         "Um processo metabólico que ocorre em resposta ao exercício físico",
+         "Um processo metabólico que ocorre em resposta à uma lesão ou infecção",
          "Um processo de regeneração tecidual após uma lesão",
          "Um processo de regeneração tecidual após uma lesão mediado por fatores de crescimento",
-        "Um processo bioquímico com resposta imunológica à uma lesão ou infecção"
+         "Um processo bioquímico com resposta imunológica à uma lesão ou infecção"
          
       ]
     },
@@ -67,6 +67,6 @@
       "wrong": "#FF5722",
       "success": "#4CAF50"
     },
-    "borderRadius": "4px"
+    "borderRadius": "6px"
   }
 }
